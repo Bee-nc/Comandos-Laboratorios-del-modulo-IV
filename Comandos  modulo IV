@@ -1,3 +1,4 @@
+#Comandos parctica 1 #
 sudo apt install apache2 -y
 sudo nano /var/www/html/index.html
 sudo mkdir -p /var/www/html/miwebsite
